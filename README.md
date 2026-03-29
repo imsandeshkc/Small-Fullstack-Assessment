@@ -1,4 +1,4 @@
-# Fullstack Assessment
+# Small Fullstack Assessment
 
 This is a simple full-stack web application built for the Fullstack Junior assessment.
 
